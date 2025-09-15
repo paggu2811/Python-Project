@@ -1,0 +1,10 @@
+1, Puran Poli, maharashtrian food, 200.0
+2, Chicken Biryani, Non-Vej, 250.0
+3, Pulav, Rice, 150.0
+4, Sonpapdi, Sweet, 100.0
+5, Pizza, Fast Food, 199.0
+6, Ice Cream, Dessert, 89.0
+7, Burger, Fast Food, 129.0
+8, Sprite, Drink, 30
+9, Pestry, Sweet, 40
+10, Panir masala, Vej, 150.0
